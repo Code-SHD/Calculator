@@ -1,6 +1,6 @@
 # Calculator
  
-I made a claculator.
+I made a calculator.
 
 I made this in python.
 
